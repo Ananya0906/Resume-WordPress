@@ -10,5 +10,7 @@ The elementor plugin is the most used for formatting in the entire website. It m
 Since SEO is the most consistent way of bringing traffic to the website, Rank math SEO plugin is used to give owners get access to the tools on how to improve it. Other plugins which include the Yoast SEO plugin can also be used but it doesn't provide the same functionality as the Rank math plugin. 
 ### Contact
 There is also a use of form for feedback or contact purpose. The plugin used was wpform lite which is beginer friendly and very easy to use. Other plugin that can be used is the ninja contact forms which is equally good. 
+### Cache management 
+For cache management LiteSpeed cache plugin is used. Some of the suggested plugins are the WP fastest cache and W3 Total cache. 
 
 The link to the website is here: http://msatestrun0709.azurewebsites.net/
